@@ -77,7 +77,7 @@ char checkForA(char str[]) {
 retrunType functionName(...parameters) {
   functionDefination
 
-  return somethingWhichIsOfTypeOfReturnType
+  return somethingWhichIsOfTypeOfReturnType;
 }
 
 // for example a function to add two ints
